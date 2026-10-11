@@ -141,8 +141,3 @@ Instead of passive reading, learners investigate realistic Java code snippets ac
 
 **Sushanth Lingala**  
 
----
-
-## 📄 License
-
-This project is created for academic and educational purposes under the MIT License.
