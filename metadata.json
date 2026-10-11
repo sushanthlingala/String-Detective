@@ -1,0 +1,6 @@
+{
+  "name": "STRING DETECTIVE — Java Strings Debugging Game",
+  "description": "Interactive Java Strings debugging game. Inspect snippets, master immutability, string pool semantics, indexing bounds, and method traps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
